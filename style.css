@@ -667,7 +667,7 @@ header .btns .login-btn:hover {
   }
   .cards-section .wrapper h1 {
     color: #000;
-    margin-top: 80px;
+    margin-top: 60px;
     z-index: 20;
     font-size: 2rem;
     font-weight: 400;
@@ -684,12 +684,12 @@ header .btns .login-btn:hover {
   }
   .card:hover {
     /* z-index: 9; */
-    width: 40%;
+    width: 55%;
     height: 60%;
     cursor: pointer;
     top: 0;
-    left: 30%;
-    /* transform: translateY(60%); */
+    left: 25%;
+    transform: translateY(60%);
   }
 }
 /* /Response Mobile */
@@ -732,7 +732,7 @@ header .btns .login-btn:hover {
   }
   .cards-section .wrapper h1 {
     font-size: 2.5rem;
-    margin-top: 100px;
+    margin-top: 80px;
   }
   .card {
     height: 90%;
